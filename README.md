@@ -1,15 +1,12 @@
 ### Date created
-Include the date you created this project and README file.
+bikeshare.py was created in Oct/07/2018
 
 ### Project Title
-Replace the Project Title
+Interactive bikeshare information system
 
 ### Description
-Describe what your project is about and what it does
+Provide information about bikeshare system in three cities, New York City, Washinton, and Chicago in an interactive manner, which enables the user to type in filters of data and retrieve with desired information  dierectly.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Files included the three cities' bikeshare data such as start station, end station, duration time.
 
