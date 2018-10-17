@@ -2,7 +2,7 @@
 bikeshare.py was created in Oct/07/2018
 
 ### Project Title
-Interactive bikeshare data program
+Interactive data of bikeshare
 
 ### Description
 Provide information about bikeshare system in three cities, New York City, Washinton, and Chicago in an interactive manner, which enables the user to type in filters of data and retrieve with desired information  dierectly.
